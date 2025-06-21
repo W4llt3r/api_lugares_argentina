@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    color: rgb(149, 245, 6);
+}
+
+#display-lugar li {
+    cursor: pointer;
+    padding: 5px;
+    transition: background-color 0.3s ease;
+}
+#display-lugar li:hover{
+    background-color: rgb(166, 227, 166);
+}
